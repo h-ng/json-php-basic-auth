@@ -1,2 +1,2 @@
-hn-0001
-hn-0002
+[Enter your auth key's]
+[Best to protect this file]
